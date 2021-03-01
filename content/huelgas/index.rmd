@@ -1,0 +1,26 @@
+---
+title: Huelgas
+---
+
+Los datos cuantitativos sobre huelgas laborales en Chile son producidos y concentrados en dos bases de datos de entidades distintas. Por un lado, la Dirección del Trabajo monitorea diariamente el patrón de acción huelguista. Sin embargo, solo se enfoca en el ciclo de vida (inicio y término) de huelgas legales -regladas-, la cantidad misma de huelgas, la cantidad de trabajadores involucrados (en total) y su distribución por sexo en cada rama de actividad económica. Además, para cada año, entregan indicadores clásicos para medir la efectividad huelguista a partir de la cantidad de días de duración, promedio duración, días trabajador y días promedio por trabajador de huelgas terminadas. Por otro lado, la base de datos construida por Alberto Armstrong (1979-2009) y continuada por el Observatorio de Huelgas Laborales OHL-COES (2010-2019) registra tanto huelgas legales como extralegales. Esta base, única en su existencia, registra indicadores clásicos de actividad huelguista y también otras características de las huelgas que no se pueden extraer de datos oficiales tales como demandas, tácticas, tipo de organización, enfrentamientos, entre otros. 
+
+Así, los datos sobre huelgas laborales se pueden clasificar en tres grandes fuentes: 
+
++ [Compendio](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-76577.html) y [anuarios estadísticos Dirección del Trabajo](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-22777.html): Datos “oficiales”, depurados y a nivel agregado (nacional, rama de actividad, región, sexo y tipo de empresa). Los compendios y anuarios se publican con un retraso de aproximadamente dos años (el más actual es del año 2018). El registro se limita al periodo 1997-2018 y las tablas se encuentran en formato *pdf*, lo que dificulta su uso y análisis.
+
++ [Monitoreo diario de huelgas Dirección del Trabajo](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-28223.html): informe diario publicado en el portal web de la institución. Las tablas se encuentran en formato *pdf*, lo que dificulta su uso y análisis.
+
++ [Observatorio de Huelgas Laborales (OHL-COES)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LOVXAQ ): Esta base de datos se sustenta en el análisis de eventos de conflicto colectivo (AEP), cuya estrategia consiste en codificar eventos huelguistas en un periodo de tiempo e interés determinado por medio de diversas fuentes de prensa. En ella se registran indicadores clásicos de actividad huelguista (duración, días perdidos por trabajador, días hora trabajo perdido, cantidad neta, cantidad de trabajadores comprometidos, región, tipo de empresa del evento, sector de actividad económica, entre otros), así como también otras características de las huelgas tales como: las demandas, tipos de tácticas utilizadas, el tipo de organización sindical o no de la huelga, el blanco de la huelga, si hubo enfrentamientos, entre otros.
+
+## Datos de los compendios estadísticos
+
+[Cuadro1](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/3.%20HUELGAS/cuadro1.xlsx). Cantidad de huelgas y trabajadores involucrados, por estado de huelga.
+
+## Datos del monitoreo diario
+
+En desarrollo.
+
+## Datos del Observatorio de Huelgas Laborales (OHL-COES)
+
+En desarrollo de tablas y gráficos propios. Consultar informes anuales en siguiente [link](https://coes.cl/observatorio-de-huelgas-laborales/).
+

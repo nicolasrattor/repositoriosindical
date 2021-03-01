@@ -1,0 +1,64 @@
+---
+description: Sobre la organización
+title: Dataset sindical
+---
+
+El Dataset sindical busca ordenar y centralizar distintos datos sobre la trayectoria y el estado actual del sindicalismo en el país. Esto, con el objeto de brindarle oportunamente a las organizaciones sindicales y a otros estudiosos/as del trabajo información actualizada, de confianza y reproducible. 
+
+El observatorio es una iniciativa levantada, sostenida y financiada por investigadores del trabajo independientes y por organizaciones de la sociedad civil a fines a la temática, como [CIPSTRA](https://cipstra.cl/) y [GETSUR](http://www.getsur.cl/). Cualquiera puede colaborar corrigiendo información, proponiendo medidas alternativas o aportando con nuevos datos. El trabajo es abierto y colaborativo en el [repositorio](https://github.com/ObservatorioSindical) del Observatorio Sindical. 
+
+
+### Principales indicadores oficiales
+
+Sindicatos activos a nivel nacional (2018): [**11.920**](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-22777.html)
+
+Afiliados/as a sindicatos activos a nivel nacional (2018): [**1.174.346**](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-22777.html)
+
+Huelgas activas al 19 de enero 2021: [**9**](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-28223.html).
+
+Tasa de sindicalización 2018 sobre asalariados sector privado en Trimestre OND 2018: [**20,6%**](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-22777.html)
+
+
+### Indicadores alternativos del Observatorio Sindical
+
+Sindicatos activos a nivel nacional (31 de diciembre 2020): [**12.576**](https://github.com/ObservatorioSindical/ventanilla_DT/raw/main/INPUT/base%20anual%20sindicatos%20anidada.xlsx).
+
+Afiliados/as a sindicatos activos a nivel nacional (31 de diciembre 2020): [**1.241.499**](https://github.com/ObservatorioSindical/ventanilla_DT/raw/main/INPUT/base%20anual%20sindicatos%20anidada.xlsx).
+
+Tasa de sindicalización 2020 sobre total ocupados en Trimestre OND 2020: [**`r round((1241499/8946480)*100,1)`%**](https://github.com/ObservatorioSindical/ventanilla_DT/raw/main/INPUT/base%20anual%20sindicatos%20anidada.xlsx).
+
+Tasa de sindicalización 2020 sobre asalariados sector privado en Trimestre OND 2020: [**`r round((1107703/4986985)*100,1)`%**](https://github.com/ObservatorioSindical/ventanilla_DT/raw/main/INPUT/base%20anual%20sindicatos%20anidada.xlsx).
+
+
+
+### Sobre las fuentes de información
+
+Se centralizan, ordenan y comparten datos sobre sindicatos en Chile provenientes de fuentes diversas, tales como:
+
+Registro Diario de Huelgas Laborales de la Dirección del Trabajo.
+
+Compendios Estadísticos de la Dirección del Trabajo.
+
+Ventanilla sindical de la Dirección del Trabajo.
+
+Bases del Observatorio de Huelgas Laborales.
+
+Encuestas Laborales (Encla) (1998-2014).
+
+Fuentes bibliográficas para periodos previos a 1990.
+
+Investigaciones de caso sobre sectores económicos o sindicatos particulares
+
+
+
+### Equipo de investigadores
+
+Felipe Marchant
+
+sebastián Osorio
+
+Nicolás Ratto
+
+Andreas Lafferte
+
+

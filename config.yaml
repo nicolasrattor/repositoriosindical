@@ -38,15 +38,21 @@ menu:
 #      url: https://www.stackoverflow.com/username/
 #      weight: 5
   main:
-    - name: Home
+    - name: Portada
       url: /
       weight: 1
-    - name: About
+    - name: Acerca de
       url: /about/
       weight: 2
-    - name: Posts
-      url: /post/
+    - name: Sindicatos
+      url: /sindicatos/
       weight: 3
-    - name: Projects
-      url: /project/
+    - name: Huelgas
+      url: /huelgas/
+      weight: 4
+    - name: Negociaciones colectivas
+      url: /negociaciones/
+      weight: 4
+    - name: Centrales
+      url: /centrales/
       weight: 4
