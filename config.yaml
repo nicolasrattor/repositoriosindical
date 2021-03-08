@@ -1,6 +1,6 @@
-baseURL: http://datasetsindical.netlify.com/
+baseURL: https://repositoriosindical.netlify.app/
 languageCode: en-us
-title: Dataset sindical
+title: Repositorio sindical
 theme: minimal
 disqusShortname: username
 googleAnalytics: ''
@@ -8,7 +8,7 @@ params:
   accent: purple
   author: Calin Tataru
   backgroundColor: white
-  description: Observatorio para centralizar y ordenar los datos sobre sindicatos en Chile
+  description: Plataforma de centralización, ordenamiento y análisis de información sindical en Chile
   font: Raleway
   githubUsername: '#'
   highlight: yes
