@@ -1,11 +1,11 @@
 ---
 description: Sobre la organización
-title: Dataset sindical
+title: Repositorio de Estadísticas Sindicales
 ---
 
-El Dataset sindical busca ordenar y centralizar distintos datos sobre la trayectoria y el estado actual del sindicalismo en el país. Esto, con el objeto de brindarle oportunamente a las organizaciones sindicales y a otros estudiosos/as del trabajo información actualizada, de confianza y reproducible. 
+El Repositorio de Estadísticas Sindicales busca ordenar y centralizar distintos datos sobre la trayectoria y el estado actual del sindicalismo en el país. Esto, con el objeto de brindarle oportunamente a las organizaciones sindicales y a otros estudiosos/as del trabajo información actualizada, de confianza y reproducible. 
 
-El observatorio es una iniciativa levantada, sostenida y financiada por investigadores del trabajo independientes y por organizaciones de la sociedad civil a fines a la temática, como [CIPSTRA](https://cipstra.cl/) y [GETSUR](http://www.getsur.cl/). Cualquiera puede colaborar corrigiendo información, proponiendo medidas alternativas o aportando con nuevos datos. El trabajo es abierto y colaborativo en el [repositorio](https://github.com/ObservatorioSindical) del Observatorio Sindical. 
+El observatorio es una iniciativa levantada, sostenida y financiada por investigadores del trabajo independientes y por organizaciones de la sociedad civil afines a la temática, como [CIPSTRA](https://cipstra.cl/) y [GETSUR](http://www.getsur.cl/). Cualquiera puede colaborar corrigiendo información, proponiendo medidas alternativas o aportando con nuevos datos. El trabajo es abierto y colaborativo en el [repositorio](https://github.com/ObservatorioSindical) del Observatorio Sindical. 
 
 
 ### Principales indicadores oficiales
