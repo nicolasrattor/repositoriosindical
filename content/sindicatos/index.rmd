@@ -2,61 +2,57 @@
 title: Sindicatos
 ---
 
-Los datos cuantitativos sobre los sindicatos en Chile son producidos y concentrados por la Dirección del Trabajo, en tanto es la institución en la cuál los sindicatos deben registrar a sus socios, socias y a sus estatutos, para constituirse como tales, y registrar sus elecciones internas y sus contratos colectivos para mantener su estado de activos. Así también, permanentemente monitorea la situación de las relaciones laborales en el país mediante estudios como la Encuesta Laboral (Encla).
+[Cantidad de sindicatos activos, poblacion afiliada a sindicatos activos, fuerza de trabajo y tasas de sindicalización. Compendios DT.](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro1.xlsx)
 
-Así, los datos de la Dirección del Trabajo sobre sindicatos se pueden extraer de tres grandes fuentes:
+[Cantidad de trabajadores afiliados a sindicatos activos, fuerza de trabajo ocupada, y tasa de sindicalización, según sexo. Compendios DT.](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro2.xlsx)
 
-+ [Compendios y anuarios estadísticos](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-22777.html). Datos "oficiales", depurados y a nivel agregado (nacional, rama de actividad, región, sexo y tipo de sindicato). Se publican con un retraso de aproximádamente dos o tres años (a inicios de 2021 solo se ha publicado el compendio hasta 2018). El registro se limita hasta los años noventa (1990-2018) y las tablas se encuentran en formato `pdf`, lo que dificulta su uso y análisis. Además, los datos de ocupación utilizados hasta 2018 no se encuentran actualizados a los últimos ajustes realizados por el INE. 
+[Cantidad de sindicatos activos a nivel nacional, por rama de actividad económica. Compendios DT.](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro3.xlsx)
 
-+ [Encuesta laboral (1998-2014)](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-22780.html). Encuesta aplicada cada 2 a 5 años a una muestra aleatoria de empresas. Si en la empresa existe sindicato este es entrevistado. Permite tener información sobre las características de las empresas en las que se concentran los sindicatos y cuestiones relacionadas a sus estrategias, recursos de poder y orientaciones socio políticas. Recién desde el año 2008 la encuesta comienza a tener factor de expansión. 
+[Cantidad de afiliados a sindicatos activos a nivel nacional, por rama de actividad económica. Compendios DT.](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro4.xlsx)
 
-+ [Ventanilla sindical](http://tramites.dirtrab.cl/VentanillaTransparencia/Transparencia/RerporteRRLLOrg.aspx). Microdato con información de cada sindicato constituido en el país desde 1920 hasta 2020. La información no se encuentra depurada y presenta contradicciones. Variables fundamentales como la actividad económica tiene información para menos del 30% de los sindicatos. La base está actualizada hasta el momento mismo en que se descarga y presenta información sobre número de socias y socios, fecha de constitución del sindicato, estado, fecha de último registro, tipo de sindicato, rut de la empresa a la que pertenece el sindicato, entre otras cuestiones. Una vez depurada la base permite obtener indicadores actualizados y alternativos a los oficiales publicados con retraso por la Dirección del Trabajo.
+[Cantidad de afiliados a sindicatos activos a nivel nacional, por rama de actividad económica y sexo. Compendios DT.](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro5.xlsx)
 
-Adicionalmente, se pueden conseguir datos sobre sindicatos para los años anteriores a los noventa en base a la revisión bibliográfica y al trabajo de archivo. Dentro de estas fuentes destacan: La república en Cifras; Morris y Oyaneder (1962): Afiliación y finanzas sindicales en Chile, 1932-1959. INSORA, Santiago de Chile; Barrera, Manuel (1980): "Desarrollo económico y sindicalismo en Chile: 1938-1970", Revista Mexicana de Sociología, Vol. 42, No. 3, pp. 1269-1296. Cuadro V, p. 1286.; y "Estadísticas sindicales, 1956-1972" (1977). Universidad de Chile, Departamento de Publicaciones de la Facultad de Ciencias Económicas y Administrativas (DERTO).
+[Tamaño promedio de sindicatos por rama de actividad ecónomica. Compendios DT.](https://github.com/ObservatorioSindical/COMPENDIOS_DT/raw/main/Output/Nuevo/cuadro7.xlsx)
 
-
-## Datos de los compendios estadísticos
-
-[Cuadro1](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro1.xlsx). Cantidad de sindicatos activos, poblacion afiliada a sindicatos activos, fuerza de trabajo y tasas de sindicalización.
-
-[Cuadro1_corregido](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Nuevo/Tasas_actualizadas.xlsx). Tasas de sindicalización nacionales actualizadas (INE CENSO 2017).
-
-[Cuadro2](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro2.xlsx). Cantidad de trabajadores afiliados a sindicatos activos, fuerza de trabajo ocupada, y tasa de sindicalización, según sexo.
-
-[Cuadro3](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro3.xlsx). Cantidad de sindicatos activos a nivel nacional, por rama de actividad económica.
-
-[Cuadro4](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro4.xlsx). Cantidad de afiliados a sindicatos activos a nivel nacional, por rama de actividad económica.
-
-[Cuadro5](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/1.%20OOSS/cuadro5.xlsx). Cantidad de afiliados a sindicatos activos a nivel nacional, por rama de actividad económica y sexo.
-
-[Cuadro7](https://github.com/ObservatorioSindical/COMPENDIOS_DT/raw/main/Output/Nuevo/cuadro7.xlsx). Poder sindical (cantidad de afiliados sobre la cantidad de sindicatos activos), por rama de actividad ecónomica.   
+**[Revisa el código en R de los cuadros y gráficos acá](https://github.com/ObservatorioSindical/COMPENDIOS_DT)**
 
 ![](https://github.com/ObservatorioSindical/COMPENDIOS_DT/raw/main/Output/Graficos/1.%20OOSS/grafico1.B%20Evoluci%C3%B3n%20de%20los%20y%20las%20afiliadas%20a%20sindicatos%20activos%20en%20Chile.%20Seg%C3%BAn%20dependencia%20del%20sindicato.png)
 
+&nbsp;&nbsp;
 
-## Datos de la ventanilla sindical
+[Porcentajes de empresas con sindicatos desde 1998 a 2019. Encla](https://github.com/ObservatorioSindical/Enclas_1998_2019/raw/main/Output/cuadro1.Empresas_con_sindicato.xlsx)
 
-[base1](https://github.com/ObservatorioSindical/ventanilla_DT/raw/main/INPUT/base%20anual%20sindicatos%20anidada.xlsx) Base de sindicatos constituidos y activos por año desde 1920 hasta 2020. 
+[Porcentajes de empresas con sindicatos desde 1998 a 2019, según tamaño de empresa según número de trabajadores. Encla](https://github.com/ObservatorioSindical/Enclas_1998_2019/raw/main/Output/cuadro2.Empresas_con_sindicato_tamano.xlsx).  
 
-![](https://github.com/ObservatorioSindical/ventanilla_DT/raw/main/OUTPUT/Graficos/sindicatos%20constituidos%20y%20activos%20(1900-2020).png)
+[Porcentajes de empresas con sindicatos desde 1998 a 2019, según sector económico de la empresa. Encla](https://github.com/ObservatorioSindical/Enclas_1998_2019/raw/main/Output/cuadro3.Empresas_con_sindicato_sector.xlsx).  
 
+[Porcentajes de empresas con sindicatos en 2014 y 2019, según tamaño de empresa y sector. Encla](https://github.com/ObservatorioSindical/Enclas_1998_2019/raw/main/Output/cuadro4.Empresas_con_sindicato_sector_tamaño.xlsx).  
 
-## Datos de la Encuesta Laboral
-
-[Cuadro 1](https://github.com/ObservatorioSindical/Enclas_1998_2019/raw/main/Output/cuadro1.Empresas_con_sindicato.xlsx). Porcentajes de empresas con sindicatos desde 1998 a 2019.  
-
-[Cuadro 2](https://github.com/ObservatorioSindical/Enclas_1998_2019/raw/main/Output/cuadro2.Empresas_con_sindicato_tamano.xlsx). Porcentajes de empresas con sindicatos desde 1998 a 2019, según tamaño de empresa según número de trabajadores.  
-
-[Cuadro 3](https://github.com/ObservatorioSindical/Enclas_1998_2019/raw/main/Output/cuadro3.Empresas_con_sindicato_sector.xlsx). Porcentajes de empresas con sindicatos desde 1998 a 2019, según sector económico de la empresa.  
-
-[Cuadro 4](https://github.com/ObservatorioSindical/Enclas_1998_2019/raw/main/Output/cuadro4.Empresas_con_sindicato_sector_tamaño.xlsx). Porcentajes de empresas con sindicatos en 2014 y 2019, según tamaño de empresa y sector.  
+**[Revisa el código en R de los cuadros y gráficos acá](https://github.com/nicolasrattor/Enclas_1998_2019)**
 
 ![](https://github.com/ObservatorioSindical/Enclas_1998_2019/raw/main/Output/grafico2_porcentaje_empresas_sindicato.png)
 
 
+&nbsp;&nbsp;
 
-## Revisión bibliográfica
 
-[(en desarrollo)]()
+## Sobre las fuentes
+
+Los datos cuantitativos sobre los sindicatos en Chile son producidos y concentrados por la Dirección del Trabajo, en tanto es la institución en la cuál los sindicatos deben registrar a sus socios, socias y a sus estatutos, para constituirse como tales, y registrar sus elecciones internas y sus contratos colectivos para mantener su estado de activos. Así también, permanentemente monitorea la situación de las relaciones laborales en el país mediante estudios como la Encuesta Laboral (Encla).
+
+Así, los datos de la Dirección del Trabajo sobre sindicatos se pueden extraer de tres grandes fuentes:
+
++ [Compendios y anuarios estadísticos](/#compendios-estadisticos-dt). Datos "oficiales", depurados y a nivel agregado (nacional, rama de actividad, región, sexo y tipo de sindicato). Se publican con un retraso de aproximádamente dos o tres años (a marzo de 2021 solo se ha publicado el compendio hasta 2019). El registro se limita hasta los años noventa (1990-2019) y las tablas se encuentran en formato `pdf`, lo que dificulta su uso y análisis. Además, los datos de ocupación utilizados hasta 2018 no se encuentran actualizados a los últimos ajustes realizados por el INE  (para 2019 no se especifican las cifras de empleo con las que son calculadas las tasas). 
+
++ [Encuesta laboral (1998-2019)](#datos-de-la-encuesta-laboral). Encuesta aplicada cada 2 a 5 años a una muestra aleatoria de empresas. Si en la empresa existe sindicato este es entrevistado. Permite tener información sobre las características de las empresas en las que se concentran los sindicatos y cuestiones relacionadas a sus estrategias, recursos de poder y orientaciones socio políticas. Recién desde el año 2008 la encuesta comienza a tener factor de expansión. 
+
++ [Ventanilla sindical](../ventanilla). Microdato con información de cada sindicato constituido en el país desde 1920 hasta 2020. La información no se encuentra depurada y presenta contradicciones. Variables fundamentales como la actividad económica tiene información para menos del 30% de los sindicatos. La base está actualizada hasta el momento mismo en que se descarga y presenta información sobre número de socias y socios, fecha de constitución del sindicato, estado, fecha de último registro, tipo de sindicato, rut de la empresa a la que pertenece el sindicato, entre otras cuestiones. Una vez depurada la base permite obtener indicadores actualizados y alternativos a los oficiales publicados con retraso por la Dirección del Trabajo.
+
+Adicionalmente, se pueden conseguir datos sobre sindicatos para los años anteriores a los noventa en base a la [revisión bibliográfica y al trabajo de archivo](#revision-bibliografica). Dentro de estas fuentes destacan: La república en Cifras; Morris y Oyaneder (1962): Afiliación y finanzas sindicales en Chile, 1932-1959. INSORA, Santiago de Chile; Barrera, Manuel (1980): "Desarrollo económico y sindicalismo en Chile: 1938-1970", Revista Mexicana de Sociología, Vol. 42, No. 3, pp. 1269-1296. Cuadro V, p. 1286.; y "Estadísticas sindicales, 1956-1972" (1977). Universidad de Chile, Departamento de Publicaciones de la Facultad de Ciencias Económicas y Administrativas (DERTO).
+
+
+
+
+
 
 

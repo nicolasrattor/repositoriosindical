@@ -2,6 +2,44 @@
 title: Huelgas
 ---
 
+Huelgas activas al 19 de enero 2021: [**9**](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-28223.html).
+
+[Huelgas legales y TC. Según aprobada y efectuada, 1997-2019. Compendio DT](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/3.%20HUELGAS/cuadro1.xlsx)
+
+[Huelgas legales terminadas. TC y días de duración. Compendio DT](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/3.%20HUELGAS/cuadro2.xlsx)
+
+[TC en huelgas legales efectuadas por sector económico. 1990-2019](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/3.%20HUELGAS/cuadro3_TC.xlsx)
+
+[Huelgas legales efectuadas por sector económico. 1990-2019](https://github.com/nicolasrattor/COMPENDIOS_DT/raw/main/Output/Cuadros/3.%20HUELGAS/cuadro3_huelgas.xlsx)
+
+**[Revisa el código en R de los cuadros y gráficos DT acá](https://github.com/ObservatorioSindical/COMPENDIOS_DT)**
+
+&nbsp;&nbsp;
+
+
+[Cantidad de huelgas legales y extralegales en el sector privado de la economía desde 1979 a 2018. OHL-COES](https://github.com/Andreas-Lafferte/strikes/raw/main/output/huelgas_legextraleg_privado.xlsx?raw=true). 
+
+[Cantidad de huelgas en el sector privado y público de la economía desde 1979 a 2018. OHL-COES](https://github.com/Andreas-Lafferte/strikes/raw/main/output/huelgas_privado_publico.xlsx?raw=true). 
+
+[Cantidad de trabajadores comprometidos en huelgas legales y extralegales desde 1979 a 2018. OHL-COES](https://github.com/Andreas-Lafferte/strikes/raw/main/output/tc_legal_extralegal.xlsx?raw=true).
+
+[Cantidad de trabajadores comprometidos en huelgas legales y extralegales en el sector privado de la economía desde 1979 a 2018. OHL-COES](https://github.com/Andreas-Lafferte/strikes/raw/main/output/tc_legextraleg_privado.xlsx?raw=true). 
+
+[Cantidad de trabajadores comprometidos en huelgas en el sector privado y público de la economía desde 1979 a 2018. OHL-COES](https://github.com/Andreas-Lafferte/strikes/raw/main/output/tc_privado_publico.xlsx?raw=true).
+
+**[Revisa el código en R de los cuadros OHL-COES](https://github.com/Andreas-Lafferte/strikes/)**
+
+&nbsp;&nbsp;
+
+
+**[Repositorio Strikes-chile. Gráficos con datos del Observatorio Sindical por sector económico:](https://github.com/valentinaandrade/strikes-chile/tree/main/Output/graph)**
+
+![](https://github.com/valentinaandrade/strikes-chile/raw/main/Output/graph/N%C3%BAmero%20de%20trabajadores%20y%20de%20huelgas%20en%20Chile%20(1980-2018).%20Comercio%20y%20manufactura.png)
+
+&nbsp;&nbsp;
+
+## Sobre las fuentes:
+
 Los datos cuantitativos sobre huelgas laborales en Chile son producidos y concentrados en dos bases de datos de entidades distintas. Por un lado, la Dirección del Trabajo monitorea diariamente el patrón de acción huelguista. Sin embargo, solo se enfoca en el ciclo de vida (inicio y término) de huelgas legales -regladas-, la cantidad misma de huelgas, la cantidad de trabajadores involucrados (en total) y su distribución por sexo en cada rama de actividad económica. Además, para cada año, entregan indicadores clásicos para medir la efectividad huelguista a partir de la cantidad de días de duración, promedio duración, días trabajador y días promedio por trabajador de huelgas terminadas. Por otro lado, la base de datos construida por Alberto Armstrong (1979-2009) y continuada por el Observatorio de Huelgas Laborales OHL-COES (2010-2019) registra tanto huelgas legales como extralegales. Esta base, única en su existencia, registra indicadores clásicos de actividad huelguista y también otras características de las huelgas que no se pueden extraer de datos oficiales tales como demandas, tácticas, tipo de organización, enfrentamientos, entre otros. 
 
 Así, los datos sobre huelgas laborales se pueden clasificar en tres grandes fuentes: 
@@ -10,29 +48,6 @@ Así, los datos sobre huelgas laborales se pueden clasificar en tres grandes fue
 
 + [Monitoreo diario de huelgas Dirección del Trabajo](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-28223.html): informe diario publicado en el portal web de la institución. Las tablas se encuentran en formato *pdf*, lo que dificulta su uso y análisis.
 
-+ [Observatorio de Huelgas Laborales (OHL-COES)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LOVXAQ ): Esta base de datos se sustenta en el análisis de eventos de conflicto colectivo (AEP), cuya estrategia consiste en codificar eventos huelguistas en un periodo de tiempo e interés determinado por medio de diversas fuentes de prensa. En ella se registran indicadores clásicos de actividad huelguista (duración, días perdidos por trabajador, días hora trabajo perdido, cantidad neta, cantidad de trabajadores comprometidos, región, tipo de empresa del evento, sector de actividad económica, entre otros), así como también otras características de las huelgas tales como: las demandas, tipos de tácticas utilizadas, el tipo de organización sindical o no de la huelga, el blanco de la huelga, si hubo enfrentamientos, entre otros.
++ [Observatorio de Huelgas Laborales (OHL-COES)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LOVXAQ ): Esta base de datos se sustenta en el análisis de eventos de conflicto colectivo (AEP), cuya estrategia consiste en codificar eventos huelguistas en un periodo de tiempo e interés determinado por medio de diversas fuentes de prensa. En ella se registran indicadores clásicos de actividad huelguista (duración, días perdidos por trabajador, días hora trabajo perdido, cantidad neta, cantidad de trabajadores comprometidos, región, tipo de empresa del evento, sector de actividad económica, entre otros), así como también otras características de las huelgas tales como: las demandas, tipos de tácticas utilizadas, el tipo de organización sindical o no de la huelga, el blanco de la huelga, si hubo enfrentamientos, entre otros. Los informes del observatorio se pueden [consultar acá](https://coes.cl/observatorio-de-huelgas-laborales/).
 
-## Datos de los compendios estadísticos
-
-[Cuadro 1](https://github.com/Andreas-Lafferte/strikes/blob/main/output/huelgas_legextraleg_privado.xlsx?raw=true). Cantidad de huelgas legales y extralegales en el sector privado de la economía desde 1979 a 2018.
-
-[Cuadro 2](https://github.com/Andreas-Lafferte/strikes/blob/main/output/huelgas_privado_publico.xlsx?raw=true). Cantidad de huelgas en el sector privado y público de la economía desde 1979 a 2018.
-
-[Cuadro 3](https://github.com/Andreas-Lafferte/strikes/blob/main/output/tc_legal_extralegal.xlsx?raw=true). Cantidad de trabajadores comprometidos en huelgas legales y extralegales desde 1979 a 2018. 
-
-[Cuadro 4](https://github.com/Andreas-Lafferte/strikes/blob/main/output/tc_legextraleg_privado.xlsx?raw=true). Cantidad de trabajadores comprometidos en huelgas legales y extralegales en el sector privado de la economía desde 1979 a 2018. 
-
-[Cuadro 5](https://github.com/Andreas-Lafferte/strikes/blob/main/output/tc_privado_publico.xlsx?raw=true). Cantidad de trabajadores comprometidos en huelgas en el sector privado y público de la economía desde 1979 a 2018. 
-
-
-## Datos del monitoreo diario
-
-Huelgas activas al 19 de enero 2021: [**9**](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-28223.html).
-
-
-## Datos del Observatorio de Huelgas Laborales (OHL-COES)
-
-Consultar informes anuales de OHL en siguiente [link](https://coes.cl/observatorio-de-huelgas-laborales/).
-
-Otros gráficos y tablas con estos datos en repositorio [strikes-chile](https://github.com/valentinaandrade/strikes-chile/tree/main/Output/graph). 
 

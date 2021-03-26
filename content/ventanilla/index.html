@@ -1,0 +1,34 @@
+---
+title: Análisis de datos de la "ventanilla transparencia" de la Dirección del Trabajo
+---
+
+
+
+<p>Se consigue estimar el número de sindicatos activos y de trabajadores afiliados/as en cada mes entre 1920 y diciembre de 2020.</p>
+<p>Se elabora un procedimiento para observar la formación y evolución sindical en empresas o holdings particulares.</p>
+<p>Dentro de la carpeta <code>OUTPUT</code> se pueden visualizar otros productos relacionados.</p>
+<div id="presentación-del-proceso" class="section level2">
+<h2>Presentación del proceso</h2>
+<p>Se descarga manualmente una bases de datos de organizaciones sindicales de la <a href="http://tramites.dirtrab.cl/VentanillaTransparencia/Transparencia/RerporteRRLLOrg.aspx">“ventanilla de transparencia”</a> de la Dirección del Trabajo (DT), a la cuál hemos denominado: <strong>“Base de sindicatos”</strong>. Esta base fue descargada por última vez el 20 de enero de 2021.</p>
+<p>La base contiene el registro actualizado de todos los sindicatos interempresa, empresa, establecimiento, independientes y transitorios constituidos en Chile desde 1900 hasta 2021 (38.349 organizaciones). Los sindicatos vienen clasificados según su estado de “activo”, “receso”, “caducado”, “eliminado” o “disuelto”. Filtrando por los casos activos, se podría suponer que al 20 de enero de 2021 en Chile existían 12.165 sindicatos activos. Esta cifra parece coherente con los últimos datos oficiales publicados por la Dirección del Trabajo en su <a href="https://www.dt.gob.cl/portal/1629/w3-article-119786.html">compendio de organizaciones sindicales</a>. Según esta, en el año 2019 existían 11.926 sindicatos activos.</p>
+<p>Con el procesamiento detallado a continuación se proponen medidas alternativas de sindicalización a las oficiales publicadas de manera agregada por la Dirección del Trabajo. Considerar esta nueva fuente de información sindical permite obtener el dato actualizado a la fecha de descarga de los sindicatos activos en Chile, logrando un monitoreo actualizado y en tiempo real de las relaciones laborales en el país; permite tener el dato de sindicatos activos para antes del año 1990; y permite vincular cada sindicato con la empresa a la que pertenece, en tanto la base de datos tienen la variable “rut empresa”. Con esta variable es posible vincular la base de sindicatos con otras bases de datos públicas con rut de empresa, como las del Servicio de Impuestos Internos (SII), a la vez que permite obtener medidas alternativas, como paralelismo sindical.</p>
+<p>A continuación se resume el proceso realizado, el cuál puede reproducirse descargando las bases de la ventanilla de transparencia y ejecutando los códigos al interior de la carpeta <code>PROCESO</code>.</p>
+</div>
+<div id="resumen-de-los-procesos-y-explicitación-de-supuestos" class="section level2">
+<h2>Resumen de los procesos y explicitación de supuestos</h2>
+<div id="script-00.-limpieza-de-la-base" class="section level3">
+<h3>Script 00. limpieza de la base</h3>
+<p>Se elimina dígito verificador de la variable rut, se eliminan 22 casos duplicados, se crea la variable actividad económica y, las variables fecha de constitución, depósito de estatutos y última directiva se transforman en variables de tiempo con <code>lubridate</code>. Se exporta a excel la base <code>archivo_sindicatos_limpia</code>.</p>
+</div>
+<div id="script-01.-generacion-microbases-mensuales" class="section level3">
+<h3>Script 01. generacion microbases mensuales</h3>
+<p>Solo considerar desde el apartado “III. Función para hacer microbases para todo el periodo” (línea 35). Las funciones I y II replican el mismo proceso pero sin <em>loop</em> para cada combinación de mes y año.</p>
+<p>Se crea una “microbase” para cada mes dentro del intervalo de tiempo definido: 1920-2020 (1200 bases). Cada microbase tiene como supuesto el considerar solamente a aquellos sindicatos que se encontraban activos en el año-mes (<code>t</code>) de cada microbase. Para cada tiempo (<code>t</code>) se filtran aquellos sindicatos activos en 2021 que se constituyeron entre el primer día y el último de <code>t</code>, y aquellos sindicatos no activos en 2021 pero cuya última fecha de elección de directiva ocurrió después del último día de <code>t</code>.</p>
+<p>Posteriormente se calcula para cada tiempo el total de sindicatos activos y de trabajadores afiliados. Los resultados se consolidan en tabulados y se exportan a <code>OUTPUT</code>. El dato de trabajadores afiliados no es del todo exacto, ya que el número de afiliados es el registrado por la Dirección del Trabajo en el último trámite realizado por el sindicato. Por tanto, si un sindicato en 2015 tiene 5000 socios, esos 5000 socios corresponden al último periodo registrado por la DT para ese sindicato, probablemente 2017-2020 en ese caso. Para cada periodo o tiempo <code>t</code> hay una sub o sobre estimación en el número de afiliados de cada sindicato.</p>
+</div>
+</div>
+<div id="script-02.-formacion-historica-sindicatos-en-empresas" class="section level2">
+<h2>Script 02. formacion historica sindicatos en empresas</h2>
+<p>Siguiendo la misma lógica del Script 01, se elabora una función para identificar empresas según cadenas de texto en las variables nombre de sindicato y nombre de empresa. Con esto, poniendo filtros de expresiones regulares, del estilo <code>LIDER|lider|Lider|WALMART|Walmart|walmart|WAL-MART|EKONO|Ekono|ekono</code>, se puede obtener el total de sindicatos activos y socios/as de cada empresa consultada. Los datos muestran un extendido y creciente paralelismo sindical en la empresa, que llega a cubrir a un altísimo porcentaje de los trabajadores, tal como hemos observado en un estudio de caso en la empresa <a href="https://preprints.scielo.org/index.php/scielo/preprint/view/1386/version/1480">(Ratto, 2021)</a>. El ejercicio también se realiza para la empresa Jumbo mediante las expresiones <code>JUMBO|Jumbo|jumbo</code>. Los/as invitamos a aplicar el proceso a empresas de sus ámbitos de interés y compartir sus hallazgos.</p>
+<p><strong>Última actualización:</strong> 2021/03/21</p>
+</div>

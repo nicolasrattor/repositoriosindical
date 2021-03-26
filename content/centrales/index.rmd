@@ -1,6 +1,28 @@
 
 ---
-title: Centrales, federaciones y confederaciones
+title: Organismos suprasindicales
 ---
 
-...
+[Afiliación anual de la Central Unitaria de Trabajadores, 1988-2020](/about_files/Repositorio estadisticas CUT.xlsx). Sin repositorio.
+
+[Resultados de elecciones CUT por Listas, 1988-2021](/about_files/Repositorio estadisticas CUT.xlsx). Sin repositorio.
+
+[Resultados de elecciones CUT para principales partidos políticos, 1988-2021](/about_files/Repositorio estadisticas CUT.xlsx). Sin repositorio.					
+
+&nbsp;&nbsp;
+
+## Sobre las fuentes:
+
+A pesar de su larga tradición histórica, en Chile existe muy poca información centralizada sobre organismos suprasindicales como Centrales, Confederaciones o Federaciones, y la que hay es muy reciente y de mala calidad. Esta sección es un esfuerzo por sistematizar información dispersa en múltiples fuentes documentales, y se presenta como series estadísticas que cubren desde el año 1988 hasta el 2019, y que permiten una aproximación a las características y tendencias principales de organismos como la Central Unitaria de Trabajadores (CUT).
+
+La información ha sido recolectada de diversas fuentes debidamente individualizadas en las tablas, tales como:
+
++ Ventanilla transparencia: base de datos de la Dirección del Trabajo que contiene información de la totalidad de las Federaciones, Confederaciones y Centrales formadas en Chile. Su principal problema es que en este nivel de organizaciones no informa correctamente los niveles de afiliación.
+
++ Periódicos: se utilizaron noticias de periódicos como El Siglo, La Tercera y El Mercurio para conocer los niveles de afiliación de la CUT en diferentes años.
+
++ Padrones electorales: en diversas elecciones de la Central Unitaria de Trabajadores, se pudo acceder a los padrones que documentan la afiliación sindical total disponible para sus procesos electorales internos realizados cada 4 años.
+
++ Literatura especializada: en algunos casos, los datos de afiliación fueron extraídos de libros y artículos que documentaron la información para ciertos años.
+
+Con toda esta información se elaboraron tablas que luego fueron completadas con procedimientos estimativos para los años en que no se halló información.
