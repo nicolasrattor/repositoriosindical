@@ -1,0 +1,22 @@
+---
+title: Minutas
+---
+
+# Minutas publicadas
+
+Minuta N°1: [Sindicatos en la coyuntura del estallido social y la pandemia (2018-2021)](https://github.com/nicolasrattor/Ventanilla_Sindicatos_DT/raw/main/Minuta1/Minuta1.pdf). Una descripción cuantitativa en base a registros administrativos públicos.
+
+Minuta N°2: [Tasas de Afiliación Sindical y Tamaño Promedio de los Sindicatos en Chile, 1932-2010.](https://github.com/ObservatorioSindical/tasa_afiliacion_sindical/raw/main/afiliacion_sindical.pdf) Fuentes de Información y propuesta de empalme.
+
+
+# Próximas minutas
+
++ Una mirada histórica a los registros de la Dirección del Trabajo sobre sindicatos, 1930-2021
+
++ Afiliación, elecciones y presencia partidaria en la Central Unitaria de Trabajadores, 1988-2021
+
++ Federaciones y Confederaciones del sector público y privado en Chile. Series 1930-2020
+
++ Paralelismo sindical en las empresas chilenas, 1990-2021. ¿Hacia una creciente fragmentación?
+
++ No todo es desorganización. Evolución de las tasas de sindicalización en las grandes empresas chilenas. Encla 1998 - 2019

@@ -56,3 +56,6 @@ menu:
     - name: Centrales
       url: /centrales/
       weight: 4
+    - name: Minutas
+      url: /minutas/
+      weight: 5
