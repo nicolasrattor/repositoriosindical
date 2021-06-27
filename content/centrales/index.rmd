@@ -3,21 +3,16 @@
 title: Organismos suprasindicales
 ---
 
-[Afiliación anual de la Central Unitaria de Trabajadores, 1988-2020](/about_files/Repositorio estadisticas CUT.xlsx). Sin repositorio.
-
-[Resultados de elecciones CUT por Listas, 1988-2021](/about_files/Repositorio estadisticas CUT.xlsx). Sin repositorio.
-
-[Resultados de elecciones CUT para principales partidos políticos, 1988-2021](/about_files/Repositorio estadisticas CUT.xlsx). Sin repositorio.					
-
-&nbsp;&nbsp;
-
-## Sobre las fuentes:
-
 A pesar de su larga tradición histórica, en Chile existe muy poca información centralizada sobre organismos suprasindicales como Centrales, Confederaciones o Federaciones, y la que hay es muy reciente y de mala calidad. Esta sección es un esfuerzo por sistematizar información dispersa en múltiples fuentes documentales, y se presenta como series estadísticas que cubren desde el año 1988 hasta el 2019, y que permiten una aproximación a las características y tendencias principales de organismos como la Central Unitaria de Trabajadores (CUT).
 
-La información ha sido recolectada de diversas fuentes debidamente individualizadas en las tablas, tales como:
+## [Federaciones y confederaciones sindicales](https://github.com/SebaOsorio/Federaciones-y-Confederaciones-sindicales--1930-2021)
 
-+ Ventanilla transparencia: base de datos de la Dirección del Trabajo que contiene información de la totalidad de las Federaciones, Confederaciones y Centrales formadas en Chile. Su principal problema es que en este nivel de organizaciones no informa correctamente los niveles de afiliación.
+Este [repositorio](https://github.com/SebaOsorio/Federaciones-y-Confederaciones-sindicales--1930-2021) sistematiza y expone información sobre la creación, receso y vigencia de de federaciones y confederaciones sindicales del sector público y privado en Chile, entre 1932 y 2021. La información se ha extraído de la Ventanilla de Consulta Pública de Sindicatos de la Dirección del Trabajo. Actualmente se está desarrollando una minuta. 
+
+
+## [Series Central Unitaria de Trabajadores CUT](https://github.com/SebaOsorio/Series-CUT-1953-2021)
+
+El [repositorio](https://github.com/SebaOsorio/Series-CUT-1953-2021) sistematiza y expone información de diversas fuentes referida a la afiliación de la CUT entre 1988 y 2021, y a los resultados de sus elecciones entre 1953 y 1972 (Central Única de Trabajadores), y entre 1988 y 2020 (Central Unitaria de Trabajadores). En específico, se ordenan fuentes como
 
 + Periódicos: se utilizaron noticias de periódicos como El Siglo, La Tercera y El Mercurio para conocer los niveles de afiliación de la CUT en diferentes años.
 

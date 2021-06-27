@@ -2,12 +2,6 @@
 title: Negociaciones colectivas
 ---
 
-[Cantidad de trabajadores involucrados en instrumentos colectivos y otros](/about_files/Cuadros_Negociación Colectiva_DATASET.xlsx). Sin repositorio. 
-
-&nbsp;&nbsp;
-
-## Sobre las fuentes:
-
 En Chile, la información cuantitativa relacionada a los procesos de negociación colectiva es producida y concentrada en la unidad estadística de la Dirección del Trabajo (DT).  
 
 Anualmente, se libera - con un desfase de uno o hasta dos años – un [Anuario Estadístico](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-76577.html) con un capítulo especialmente dedicado a la actividad de las negociaciones colectivas en el país, y desagregado a nivel regional. Además, cada dos años liberan un [Compendio de series estadísticas](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-22777.html) que sintetiza los “anuarios” liberados hasta el momento. 
@@ -15,3 +9,5 @@ Anualmente, se libera - con un desfase de uno o hasta dos años – un [Anuario 
 Las principales variables que se pueden encontrar en estas dos grandes fuentes de información, son: la cantidad de “instrumentos colectivos” (considerando a los contratos, convenios y acuerdos) que entran en vigencia en un año particular, o que se encuentran vigentes a alguna fecha en particular. Este matiz que se realiza entre instrumentos que (A) entran en vigencia, y (B) los que se encuentran vigentes, nos entrega cierta noción del “flujo” y del “stock” (Beneyto y Orsatti, 2013: 56) de los distintos tipos de acuerdos que se dan en el marco de una negociación colectiva legal o reglada. 
 
 Otras variables interesantes que se pueden explotar de los compendios y anuarios para análisis más minuciosos, es la disponibilidad de las ramas económicas (CIIU en sus distintas rev.), sexo, el tipo de instrumento colectivo (contrato o convenio), regiones del país, entidad que realizó el instrumento (sindicato o grupo negociador), y la cantidad de trabajadores/as implicados en estos procesos.
+
+Por ahora no hay repositorio activo sobre esta temática, pero en el siguiente link se puede descargar tabla con la [cantidad de trabajadores involucrados en instrumentos colectivos y otros](/about_files/Cuadros_Negociación Colectiva_DATASET.xlsx). 

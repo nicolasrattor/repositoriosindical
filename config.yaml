@@ -23,7 +23,7 @@ params:
 menu:
   icon:
     - name: fas fa-envelope
-      url: mailto:nicolasrattor@gmail.com
+      url: mailto:cipstra@gmail.com
       weight: 1
     - name: fab fa-github
       url: https://github.com/ObservatorioSindical/
