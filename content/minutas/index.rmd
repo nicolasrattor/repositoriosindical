@@ -6,7 +6,7 @@ title: Minutas
 
 Minuta N°1: [Sindicatos en la coyuntura del estallido social y la pandemia (2018-2021)](https://github.com/nicolasrattor/Ventanilla_Sindicatos_DT/raw/main/Minuta1/Minuta1.pdf). Una descripción cuantitativa en base a registros administrativos públicos.
 
-Minuta N°2: [Tasas de Afiliación Sindical y Tamaño Promedio de los Sindicatos en Chile, 1932-2010.](https://github.com/ObservatorioSindical/tasa_afiliacion_sindical/raw/main/afiliacion_sindical.pdf) Fuentes de Información y propuesta de empalme.
+Minuta N°2: [Tasas de Afiliación Sindical y Tamaño Promedio de los Sindicatos en Chile, 1932-2010.](https://github.com/dpolancon/tasa_afiliacion_sindical/raw/main/Minuta2.pdf) Fuentes de Información y propuesta de empalme.
 
 
 # Próximas minutas
